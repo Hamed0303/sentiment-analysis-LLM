@@ -1,0 +1,201 @@
+tw_pred,tw_conf,rl_pred,rl_conf,gp_pred,gp_conf,final_pred,score_neg,score_neu,score_pos,weight_tw,weight_rl,weight_gp,top_model,tweet,true_label
+1,0.9913591146469116,1,0.9665430784225464,1,0.9999667875258017,1,0.0,0.0,0.9894589420302653,0.25,0.25,0.5,chatgpt_ft, I`m currently into Emarosa. Their new album is the shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit! Haha,1
+1,0.8762984871864319,0,0.978594958782196,0,0.9996644712674415,0,0.0,0.7444809753292698,0.21907462179660797,0.25,0.25,0.5,chatgpt_ft,"  oo, oo, I must compete... let me login to my work email to see if I can top that",1
+1,0.9928621649742126,1,0.9945344924926758,1,0.9999984951481292,1,0.0,0.0,0.9968484119407868,0.25,0.25,0.5,chatgpt_ft,Candle wax is very enjoyable.,1
+1,0.9506799578666687,0,0.725923478603363,0,0.9254978103000823,1,0.0,0.4128553222258613,0.47533997893333435,0.5,0.25,0.25,twitter_roberta,"Anyone have an extra Keane ticket? I promise to buy you a drink and take rad pics for your FB / Blog / Flickr., etc",1
+0,0.8699056506156921,0,0.9721369743347168,0,0.9998559452810674,0,0.0,0.9604386288781359,0.0,0.25,0.25,0.5,chatgpt_ft, im only on 1800  lol,0
+0,0.7612922787666321,0,0.743844747543335,-1,0.9998415274892719,-1,0.49992076374463595,0.37628425657749176,0.0,0.25,0.25,0.5,chatgpt_ft,Home empty handed.  No comics found today.  I shall now indulge in my cupcakes from Magnolia Bakery.,0
+1,0.9607927799224854,1,0.9925716519355774,1,0.9999986143516758,1,0.0,0.0,0.9883404151403536,0.25,0.25,0.5,chatgpt_ft, Thank you.,1
+1,0.8519468903541565,0,0.9862761497497559,0,0.9998078024277957,0,0.0,0.7464729386513368,0.21298672258853912,0.25,0.25,0.5,chatgpt_ft,someone take me to LA  I NEED TO SEE THE LEMON TREE,1
+-1,0.9728849530220032,-1,0.9951273202896118,-1,0.9999865748705684,-1,0.9919963557631879,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"On my way to work, I`m kinda sad",-1
+-1,0.7789800763130188,-1,0.9972184896469116,-1,0.9999921773839029,-1,0.944045730181934,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,OMG i havent been on twitter all day  going thru withdraws,-1
+0,0.8713845014572144,0,0.9801425933837891,0,0.9998801330908141,0,0.0,0.9628218402556579,0.0,0.25,0.25,0.5,chatgpt_ft,  #powerblog What is this powerblog challenge you keep talking about?  I`m a newbie follower,0
+-1,0.8684163093566895,-1,0.9948744177818298,-1,0.9999838332275324,-1,0.965814598398396,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Just opened a facebook account, I`m a little confused I don`t really get it. Twitter seems much better",-1
+1,0.8208694458007812,1,0.9930024743080139,0,0.9927728271130218,1,0.0,0.24819320677825546,0.7017185986042023,0.25,0.5,0.25,roberta_large,  WHAT ABOUT ME ??  I VOTE EVERY DAY FOR YOU !!!!!,1
+1,0.6792944669723511,1,0.9624952673912048,1,0.9996234981203703,1,0.0,0.0,0.9102591826510742,0.25,0.25,0.5,chatgpt_ft, You have the best hair ever. Totally jealous. Mine`s unfixable if I forget and leave sunglasses stuck in it too long,1
+1,0.9914407730102539,1,0.9960447549819946,1,0.999999091165777,1,0.0,0.0,0.9968709275809506,0.25,0.25,0.5,chatgpt_ft,im an avid fan of **** magazine and i love your magazines,1
+-1,0.9845913648605347,-1,0.9965388774871826,-1,0.9999962302845802,-1,0.9952806757292194,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"im really bored, anthony is doing senior board ****. and im hungry and cold.",-1
+1,0.666090726852417,-1,0.9950763583183289,-1,0.9999938462231682,-1,0.7487660126911664,0.0,0.16652268171310425,0.25,0.25,0.5,chatgpt_ft,My modem has been offline for a week now... God bless the 3g network. Tim just left... Again!! May schedule has been brutal,-1
+-1,0.5985733866691589,-1,0.960026741027832,0,0.9997643060784214,0,0.38965003192424774,0.4998821530392107,0.0,0.25,0.25,0.5,chatgpt_ft,Trying to figure out how to use Twitter.......I`m old,-1
+1,0.9783136248588562,-1,0.9238271117210388,-1,0.9999660723268162,-1,0.7309398140936678,0.0,0.24457840621471405,0.25,0.25,0.5,chatgpt_ft,my twitter looks funny  someone help!,-1
+1,0.9658402800559998,1,0.9951464533805847,1,0.6650978416609725,1,0.0,0.0,0.9053077571195354,0.25,0.5,0.25,roberta_large," I watched that too!!! I didnt want her to win, but she put up a good fight..lol",1
+1,0.9895843863487244,1,0.9914535284042358,1,0.9999978991308366,1,0.0,0.0,0.9952584282536583,0.25,0.25,0.5,chatgpt_ft,Hey  Bye Bye  was fun too   (robluketic live > http://ustre.am/2w5v),1
+1,0.9849026799201965,1,0.9749108552932739,1,0.998509580980866,1,0.0,0.0,0.9892081742938006,0.25,0.25,0.5,chatgpt_ft, hey chocolate chips is good.  i want a snack too but i`m out of snacks.,1
+-1,0.9855183362960815,-1,0.9967384934425354,-1,0.99999158136958,-1,0.9955599981194443,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,feels like **** whenever she lays down. @)(1+-`$#! I hate heartburn & backaches!,-1
+0,0.6388184428215027,0,0.9307008981704712,-1,0.9810622634113437,-1,0.49053113170567186,0.39237983524799347,0.0,0.25,0.25,0.5,chatgpt_ft, My sources say no,0
+-1,0.6942984461784363,1,0.6375188231468201,0,0.9993213955597954,0,0.17357461154460907,0.4996606977798977,0.15937970578670502,0.25,0.25,0.5,chatgpt_ft,my sister said yayyy its hannah HOEdown today  haaaa hannah is a hoe apparently hoe.,0
+1,0.9800084829330444,1,0.9856258034706116,1,0.9999644035311729,1,0.0,0.0,0.9913907733665004,0.25,0.25,0.5,chatgpt_ft, hahah no not that valley. that`s cool valley. texas valley. like...rio grande valley. ahhaha i wish i lived in california valley,1
+1,0.9328544735908508,1,0.944563090801239,0,0.9998806098491038,0,0.0,0.4999403049245519,0.46935439109802246,0.25,0.25,0.5,chatgpt_ft,Today is going to be a normal day for I hope. We had a group of pilots from a large airline come in last night so it was too much drink,1
+-1,0.977387011051178,-1,0.9948577880859375,-1,0.9999930118027327,-1,0.9930577056856452,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,My new landlord just called.. I cant move in until tomorrow morning  Way to rain on my parade..,-1
+1,0.990180492401123,1,0.9969071745872498,1,0.9999987335551229,1,0.0,0.0,0.9967712835246547,0.25,0.25,0.5,chatgpt_ft, awww I love me some charlies  we are enjoying some lucky food LOL,1
+-1,0.8234748244285583,-1,0.9707678556442261,-1,0.999971913124405,-1,0.9485466265803986,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,not well,-1
+0,0.9036276936531067,-1,0.9632551670074463,0,0.9992308095025949,0,0.24081379175186157,0.7255223281645742,0.0,0.25,0.25,0.5,chatgpt_ft,It looks like the office TV DOES get MLB Network... and it looks like MLBN will NOT be televising the DET/BAL game today  #wieters,-1
+1,0.8748476505279541,1,0.9824800491333008,1,0.9999931310057394,1,0.0,0.0,0.9643284904181835,0.25,0.25,0.5,chatgpt_ft, i couldnt call you because the time on my phone would run out  so if you can give me a shoutout on here i will be happy,1
+0,0.9477491974830627,0,0.9931206107139587,0,0.9999117187733785,0,0.0,0.9851733114359447,0.0,0.25,0.25,0.5,chatgpt_ft," cafe, sky dining plangi  http://plurk.com/p/sw17j",0
+1,0.9915677905082703,1,0.9952231049537659,1,0.9999983759447105,1,0.0,0.0,0.9966969118378644,0.25,0.25,0.5,chatgpt_ft, thank you. yes yes. hooray!,1
+0,0.9486930966377258,0,0.9914080500602722,0,0.9999050439848968,0,0.0,0.9849778086669478,0.0,0.25,0.25,0.5,chatgpt_ft,tomorrow He`ll gone to new home...I was Born single(our little puppy of basset hound),0
+0,0.7437076568603516,0,0.974200427532196,-1,0.9999880052965596,-1,0.4999940026482798,0.4294770210981369,0.0,0.25,0.25,0.5,chatgpt_ft,sam and sean are teasing me saying they are gonna get wings without me,0
+1,0.9897514581680298,1,0.9964008331298828,1,0.9999992103693378,1,0.0,0.0,0.996537678009147,0.25,0.25,0.5,chatgpt_ft,Happy Mother`s day mang!!! thank you and i love you,1
+1,0.9933204650878906,1,0.9950770735740662,1,0.9999975415208362,1,0.0,0.0,0.9970981554259073,0.25,0.25,0.5,chatgpt_ft, _ i am glad to break my twitter virginity with you two.,1
+0,0.9031434059143066,0,0.9916841983795166,-1,0.9998629773060462,-1,0.4999314886530231,0.4737069010734558,0.0,0.25,0.25,0.5,chatgpt_ft,I need a job to keep me above waters...thought I had one but apparently its 'Casual' so now on the search again,-1
+1,0.9885886907577515,1,0.9950096607208252,1,0.9999976607241555,1,0.0,0.0,0.9958984182317219,0.25,0.25,0.5,chatgpt_ft," Trust me, that`s a GOOD thing. Your 40-something self will thank you.",1
+1,0.9688675403594971,-1,0.5266518592834473,0,0.6555036223360264,1,0.13166296482086182,0.1638759055840066,0.48443377017974854,0.5,0.25,0.25,twitter_roberta,I think Destiny has officially gone crazy... hahahaha,1
+1,0.9462271332740784,1,0.993803858757019,1,0.9991508280887486,1,0.0,0.0,0.9845831620521486,0.25,0.25,0.5,chatgpt_ft,The exception for a short dude: Larenz fineass Tate yum,1
+1,0.9729120135307312,1,0.9941814541816711,1,0.999997064707474,1,0.0,0.0,0.9917718992818376,0.25,0.25,0.5,chatgpt_ft,Gah! Buddy K is a must hang with person right now I miss him.  Along with Parker and McPhee.,1
+0,0.9235547184944153,0,0.9937279224395752,-1,0.9998543958574975,-1,0.49992719792874873,0.4793206602334976,0.0,0.25,0.25,0.5,chatgpt_ft,hampa hatiku,0
+-1,0.667752742767334,-1,0.9866952896118164,-1,0.9999500997045827,-1,0.913587057947079,0.0,0.0,0.25,0.25,0.5,chatgpt_ft," Hey, you change your twitter account, and you didn`t even tell me...",-1
+1,0.9236080050468445,1,0.7714279890060425,0,0.998624997289825,0,0.0,0.4993124986449125,0.42375899851322174,0.25,0.25,0.5,chatgpt_ft,just had cheese on toast with ham (: about to get ready to go to LONDON!,1
+-1,0.9620431065559387,-1,0.9952410459518433,-1,0.999991104559287,-1,0.989316590406589,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, and now I am starting to feel really old.,-1
+0,0.5153949856758118,1,0.993344783782959,1,0.9999958726751765,1,0.0,0.12884874641895294,0.748334132283328,0.25,0.25,0.5,chatgpt_ft,I just got twitter for my palm  <3,1
+1,0.9864717125892639,1,0.9902716279029846,1,0.9999978991308366,1,0.0,0.0,0.9941847846884804,0.25,0.25,0.5,chatgpt_ft," That`s awesome man. ****, I should of sent you an affiliate link.  lol. oh well.",1
+-1,0.7350591421127319,-1,0.9689292907714844,0,0.9990945455323019,0,0.4259971082210541,0.49954727276615096,0.0,0.25,0.25,0.5,chatgpt_ft,Aw. Torn ace of hearts  #Hunchback,0
+-1,0.8901800513267517,-1,0.7906085252761841,-1,0.999991104559287,-1,0.9201926964303775,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,listening to music  was kostet der fisch ?! xD my mathsteacher has choose the wrong job... that`s wrong grammar but a real fact !!,-1
+1,0.9825457334518433,1,0.9931353330612183,1,0.9994173508163551,1,0.0,0.0,0.9936289420364429,0.25,0.25,0.5,chatgpt_ft,"Yay, I should be able to make it to 700 updates tonight  lame compared to other ppls i know lol",1
+-1,0.8819196224212646,-1,0.7535356283187866,1,0.9999891973194788,1,0.4088638126850128,0.0,0.4999945986597394,0.25,0.25,0.5,chatgpt_ft, huh what the ****? Smelly? Noooo. I love alex Vixon,1
+1,0.9893071055412292,1,0.9766369462013245,1,0.9999231613819755,1,0.0,0.0,0.9914475936266262,0.25,0.25,0.5,chatgpt_ft, We saw that in none 3D - the baddie`s the best,1
+-1,0.5133385062217712,-1,0.8019586801528931,0,0.9890416638091523,0,0.3288242965936661,0.49452083190457613,0.0,0.25,0.25,0.5,chatgpt_ft,  I try pretty hard to engage everyone I follow! Some of them lack interesting **** to say so they end up unfollowed,-1
+1,0.9873552918434143,1,0.996856689453125,1,0.999998137537802,1,0.0,0.0,0.9960520640930358,0.25,0.25,0.5,chatgpt_ft,--please do SNL every week!! i couldn`t quit laughing!! u+snl=best nite ever,1
+0,0.9696100950241089,0,0.9923416376113892,0,0.9998273446017675,0,0.0,0.9904016054597582,0.0,0.25,0.25,0.5,chatgpt_ft,to the doctor  anyone wanna do somethin after for a bit?,0
+1,0.9926566481590271,1,0.9920326471328735,1,0.9999957534718431,1,0.0,0.0,0.9961702005588967,0.25,0.25,0.5,chatgpt_ft,"yoga for school, what could be better?",1
+1,0.9723665118217468,1,0.9707051515579224,1,0.9999975415208362,1,0.0,0.0,0.9857666866053354,0.25,0.25,0.5,chatgpt_ft," She`s unassuming and unpretentious. She`s just, as. I suppose that`s why she`s so endearing--because we can relate to her",1
+1,0.991276741027832,1,0.9958603978157043,1,0.999997303114013,1,0.0,0.0,0.9967829362678906,0.25,0.25,0.5,chatgpt_ft,I love crowded cars  and Ayanna!,1
+0,0.854009211063385,0,0.9907454252243042,0,0.9997603732959296,0,0.0,0.961068845719887,0.0,0.25,0.25,0.5,chatgpt_ft,Night of the cookers with my dad,0
+1,0.9926490187644958,1,0.9854142665863037,1,0.9999976607241555,1,0.0,0.0,0.9945146516997776,0.25,0.25,0.5,chatgpt_ft,Swiped the last package of fruit snacks! Hell yeah. Finished Catch-22. What shall I read next?!? I`m such a nerd,1
+-1,0.9868391156196594,-1,0.9962521195411682,-1,0.9999955150656735,-1,0.9957705663230436,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,The only thing I hate about Playoff Pens hockey is how much the tickets are! I wanted to go to a game but there 300$ a ticket,-1
+0,0.5817726850509644,0,0.9945308566093445,0,0.9995990818759438,0,0.0,0.8938754263530491,0.0,0.25,0.25,0.5,chatgpt_ft, Whats up today..? missed the #coffeeclub that day,0
+0,0.8092100620269775,0,0.7811119556427002,0,0.9997900446590514,0,0.0,0.8974755267469452,0.0,0.25,0.25,0.5,chatgpt_ft,Movie night with kate,0
+1,0.9928545355796814,1,0.9912077188491821,1,0.999999091165777,1,0.0,0.0,0.9960151091901044,0.25,0.25,0.5,chatgpt_ft,"35mins through the 1hr 20mins Google Wave demo, that looks a lot of fun, would love to test it though.  http://bit.ly/WnMSc",1
+1,0.6732228994369507,1,0.9348382949829102,1,0.9999976607241555,1,0.0,0.0,0.9020141289670429,0.25,0.25,0.5,chatgpt_ft, Pitty he wasnt arnd 2 huh! I wld have rlly wet myself! Otherwise the wedding was gr8!! Had a gd time & lots of smiley faces!,1
+1,0.990257978439331,1,0.995849609375,1,0.9999757275417279,1,0.0,0.0,0.9965147607244467,0.25,0.25,0.5,chatgpt_ft,I would love to sleep with pete Lmfao   jk,1
+0,0.9550626873970032,0,0.9884871244430542,0,0.9998435536262462,0,0.0,0.9858092297731375,0.0,0.25,0.25,0.5,chatgpt_ft, i think 30 bucks and i dunno,0
+1,0.5925975441932678,1,0.9906967878341675,1,0.9956349754727253,1,0.0,0.0,0.8936410707432214,0.25,0.25,0.5,chatgpt_ft,Sugar Free Should Have Gone Through In stead On 2 Grand  They Were So Good and 2 Grand Is A Bit Too Cheesy,0
+1,0.9927592277526855,1,0.9952364563941956,1,0.9999989719621736,1,0.0,0.0,0.9969984070178071,0.25,0.25,0.5,chatgpt_ft,up at 4:30am west coast time..gettin ready to catch my flight back home..soooo excited to go back to my two fav boyzzzz  puppy n BF,1
+0,0.8992997407913208,0,0.9901534914970398,0,0.999869771007473,0,0.0,0.9722981935758266,0.0,0.25,0.25,0.5,chatgpt_ft,following  `cause  ordered it,0
+-1,0.9095110893249512,-1,0.9836507439613342,-1,0.9999653571283423,-1,0.9732731368857426,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Blah. So i registered to coach this summer and eh the tourney starts July 6th. My vacation 7/15-28th. Fk my life, haha",-1
+-1,0.9676359295845032,-1,0.9944739937782288,-1,0.9999880052965596,-1,0.9905214834889629,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,I am NOT in the mood for a long car drive,-1
+0,0.6747528910636902,1,0.5309009552001953,0,0.9996249280069988,0,0.0,0.6685006867694219,0.13272523880004883,0.25,0.25,0.5,chatgpt_ft,_Laurie my thoughts rae with you and your family,0
+-1,0.9770467877388,-1,0.9184278845787048,-1,0.9999901509393829,-1,0.9738637435490677,0.0,0.0,0.25,0.25,0.5,chatgpt_ft," also bored at school, its my third freelesson( freistunde )",-1
+1,0.9887823462486267,1,0.9958749413490295,1,0.9999961110814314,1,0.0,0.0,0.9961623774401298,0.25,0.25,0.5,chatgpt_ft,at least I get to watch over time  Let`s go Pens!!,1
+1,0.9924789667129517,1,0.9938342571258545,1,0.9999980183344259,1,0.0,0.0,0.9965773151269145,0.25,0.25,0.5,chatgpt_ft,had an amazing time dancing to DJ Dan at Ruby Skye tonight. And I`m still looking for that roommate in SF if you know anybody!,1
+1,0.9821464419364929,1,0.9955249428749084,1,0.999997064707474,1,0.0,0.0,0.9944163785565874,0.25,0.25,0.5,chatgpt_ft,Hi Everyone miss me much?  muahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh ;),1
+-1,0.8333308100700378,0,0.9822261333465576,0,0.9996998561540702,0,0.20833270251750946,0.7454064614136745,0.0,0.25,0.25,0.5,chatgpt_ft, no sir...i woulda put honey...but i don`t have any,-1
+0,0.901142954826355,1,0.6991150379180908,0,0.9994071090317602,0,0.0,0.7249892932224689,0.1747787594795227,0.25,0.25,0.5,chatgpt_ft,twittering after 2 days!,0
+1,0.9936420321464539,1,0.9896798729896545,1,0.9999980183344259,1,0.0,0.0,0.9958294854512401,0.25,0.25,0.5,chatgpt_ft,Mango Medley has yummy mango and mango ice cream!,1
+0,0.503937304019928,-1,0.9496229290962219,0,0.9785828599563855,0,0.23740573227405548,0.6152757559831747,0.0,0.25,0.25,0.5,chatgpt_ft," Aw, thanks. Slowly getting over it.  Yep, he tweaked his knee late in the third. Basically stood still for the last 2 games.",0
+1,0.4972006380558014,0,0.6440609693527222,0,0.8796949698133613,0,0.0,0.6008627272448612,0.12430015951395035,0.25,0.25,0.5,chatgpt_ft,I want it BACK NOW!: http://bit.ly/PP1WZ,0
+1,0.8853545784950256,1,0.9654714465141296,1,0.9999922965859006,1,0.0,0.0,0.9627026545452391,0.25,0.25,0.5,chatgpt_ft, Feels good?  Now the hardest part will be to keep it empty every day. Or at least several times a week.,0
+0,0.8128492832183838,0,0.99433434009552,0,0.9997553789348421,0,0.0,0.951673595295897,0.0,0.25,0.25,0.5,chatgpt_ft,having another only fools and horses marathon day,0
+-1,0.9864541888237,-1,0.9963774085044861,-1,0.9999971839107363,-1,0.9957064912874147,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Something is totally eating up my broc, cab and beans   Insecticidal soap just isn`t getting rid of the pests but I don`t want chemicals",-1
+-1,0.9330112338066101,-1,0.8352499604225159,0,0.9994031813047287,0,0.4420652985572815,0.49970159065236436,0.0,0.25,0.25,0.5,chatgpt_ft,_Stack i wish i could go to both but i don`t think i`ll be allowed :p either way with two shows going your bound to get a ticket,-1
+-1,0.9592685699462891,-1,0.9957002401351929,-1,0.9999882437013936,-1,0.9887363243710673,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,my sunburn hurts,-1
+-1,0.597591757774353,0,0.9362371563911438,-1,0.9822158000880353,-1,0.640505839487606,0.23405928909778595,0.0,0.25,0.25,0.5,chatgpt_ft,i need to get my computer fixed,-1
+-1,0.9688999652862549,-1,0.9933017492294312,-1,0.9999766811478773,-1,0.9905387692028602,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Isss boredddd, gotta be up in the morningg",-1
+1,0.9857547283172607,1,0.9911999106407166,1,0.9999964686909203,1,0.0,0.0,0.9942368940849544,0.25,0.25,0.5,chatgpt_ft, http://bit.ly/izhdy  here looove.,1
+-1,0.5309829711914062,-1,0.9778763651847839,-1,0.9999762043455984,-1,0.8772029362668468,0.0,0.0,0.25,0.25,0.5,chatgpt_ft," If you`ve jailbroken or went to 3.0 early, prepare to be bricked",-1
+1,0.9914630055427551,1,0.9966520667076111,1,0.999997064707474,1,0.0,0.0,0.9970273004163286,0.25,0.25,0.5,chatgpt_ft, Lol! Joyologist? Love it - much better than the happy freak who can`t stop smiling  Enjoy Monday!,1
+1,0.8439005017280579,-1,0.9879618287086487,1,0.9999967070975446,1,0.24699045717716217,0.0,0.7109734789807868,0.25,0.25,0.5,chatgpt_ft,Where art thou ? I miss you!,1
+1,0.9851847887039185,1,0.9915127158164978,1,0.999998137537802,1,0.0,0.0,0.994173444899005,0.25,0.25,0.5,chatgpt_ft, http://twitpic.com/4ve84 - Wow! A nice laptop,1
+0,0.941306471824646,0,0.8753994703292847,0,0.9998815633663649,0,0.0,0.9541172672216651,0.0,0.25,0.25,0.5,chatgpt_ft,wants to go home.,0
+-1,0.9748035669326782,-1,0.5727570056915283,-1,0.9999808531879747,-1,0.886880569750039,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,Ew traffic,-1
+1,0.9934584498405457,1,0.9963000416755676,1,0.999999091165777,1,0.0,0.0,0.9974391684619168,0.25,0.25,0.5,chatgpt_ft,Time to get educated  Hope you all are off for a great start on this Monday morning,1
+1,0.9922662377357483,1,0.9935803413391113,1,0.9999969455039983,1,0.0,0.0,0.9964601175207141,0.25,0.25,0.5,chatgpt_ft,"_98 ****, that`s my favorite part...lol...ok, i`ll just keep in stock alot then",1
+-1,0.7367048263549805,0,0.9279140830039978,0,0.999933292971425,0,0.18417620658874512,0.7319451672367119,0.0,0.25,0.25,0.5,chatgpt_ft,URL in previous post (to timer job) should be http://bit.ly/a4Fdb. I`d removed space which messed up URL.  ^ES,-1
+1,0.990467369556427,1,0.9943467974662781,1,0.9999988527586979,1,0.0,0.0,0.9962029681350253,0.25,0.25,0.5,chatgpt_ft,http://www.youtube.com/Lillysan I found out this morning I got 800+ subscribers! Thx!  Check on Lillysan Awards! **** Li,1
+-1,0.9699528217315674,-1,0.9952771663665771,-1,0.9999930118027327,-1,0.9913040029259025,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, I`m trying to sleep!!! It`s not working,-1
+-1,0.6154444217681885,1,0.9911252856254578,1,0.9999814491959033,1,0.15386110544204712,0.0,0.747772046004316,0.25,0.25,0.5,chatgpt_ft,At the reception eating some nasty **** pasta Woot! But other than that its beautiful!,0
+1,0.9915221929550171,1,0.8825904130935669,1,0.9999962302845802,1,0.0,0.0,0.9685262666544361,0.25,0.25,0.5,chatgpt_ft," good girl, sarah. now we`ve got ourselves a club",1
+1,0.9921351671218872,1,0.9573908448219299,1,0.999996587894339,1,0.0,0.0,0.9873797969331237,0.25,0.25,0.5,chatgpt_ft,DUSTBIN BABY ON AT 11.30 Cannot wait  x,1
+1,0.9725031852722168,1,0.9948856234550476,1,0.9999974223173038,1,0.0,0.0,0.991845913340468,0.25,0.25,0.5,chatgpt_ft, omg in your pic youu look so cuute !,1
+0,0.8626482486724854,0,0.9717245101928711,1,0.9858722490499184,1,0.0,0.4585931897163391,0.4929361245249592,0.25,0.25,0.5,chatgpt_ft,OK - I`m out of here for now. Just popped in to say Hi and check on things. I`ll probably head to the guttah later on tonight,0
+-1,0.8272777795791626,0,0.9897779822349548,0,0.9997495394165695,0,0.20681944489479065,0.7473192652670235,0.0,0.25,0.25,0.5,chatgpt_ft, Sports Bar Shatranjanpoli Rest Ph 26498457 All Sports Bar Andheri W 26733333 Dont know whether that helps. Google ki jai ho,0
+1,0.9909816384315491,1,0.9794235825538635,1,0.9992886556232263,1,0.0,0.0,0.9922456330579663,0.25,0.25,0.5,chatgpt_ft,Well hopefully I`ll see you both   at the conference,1
+0,0.941338062286377,0,0.9881072640419006,0,0.999770503228676,0,0.0,0.9822465831964073,0.0,0.25,0.25,0.5,chatgpt_ft,Cleaning up the kitchen &watching the Royals play,0
+-1,0.95916348695755,-1,0.9216291904449463,-1,0.9999919389781311,-1,0.9701941388396896,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, its taking forever to upload,-1
+0,0.621158242225647,0,0.621656060218811,-1,0.9985522462416747,-1,0.49927612312083736,0.3107035756111145,0.0,0.25,0.25,0.5,chatgpt_ft," not sure I like this way to learn a new language  I prefer to be 'on location', so I can practice, ask Qs and get answers",-1
+1,0.99363774061203,1,0.9962009787559509,1,0.9999986143516758,1,0.0,0.0,0.9974589870178332,0.25,0.25,0.5,chatgpt_ft,  #lichfield #tweetup sounds like fun  Hope to see you and everyone else there!,1
+0,0.9341915845870972,0,0.9827530384063721,0,0.9999126723203061,0,0.0,0.9791924919085204,0.0,0.25,0.25,0.5,chatgpt_ft, Namaskar & Namaste r both the same. Marathi people say Namaskar! its a marathi word.... should i ? ...naaaah !,0
+-1,0.9818858504295349,-1,0.9956877827644348,-1,0.9999880052965596,-1,0.9943874109467723,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,ohh my tooth is hurts ohh  im sad it very hurts,-1
+0,0.7673546075820923,0,0.9889430999755859,0,0.9998532039825354,0,0.0,0.9390010288806873,0.0,0.25,0.25,0.5,chatgpt_ft,I CAME BACK THERE WAS A CAT OUT THERE,0
+1,0.9929104447364807,1,0.99671870470047,1,0.9999884821053749,1,0.0,0.0,0.9974015284119251,0.25,0.25,0.5,chatgpt_ft,Good Morning Every1!!! Its gorgeous out again n im stuck in work  Wish i was at home chillin out.. Hopefully tha day goes quick  doh !!,1
+-1,0.9818279147148132,-1,0.9962168335914612,-1,0.9999864556683433,-1,0.9945044149107403,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, it is ****...u have dissappointed me that past few days,-1
+1,0.7178698778152466,1,0.9692407250404358,1,0.9999815683975317,1,0.0,0.0,0.9217684349126865,0.25,0.25,0.5,chatgpt_ft,Having fries plus greentea. Mmm  - http://tweet.sg,0
+1,0.9483506083488464,0,0.5872315764427185,0,0.9921698662729056,0,0.0,0.6428928272471324,0.2370876520872116,0.25,0.25,0.5,chatgpt_ft, DUDE WHAT? I WANNNNAAAA GOOOOOO,1
+1,0.9895049333572388,1,0.996482253074646,1,0.9999992103693378,1,0.0,0.0,0.9964964017926401,0.25,0.25,0.5,chatgpt_ft, i always have a good day! i make it good all the time but you make it better w/ ur morning greetings!! thank you!!,1
+-1,0.9461913704872131,-1,0.9790958166122437,-1,0.99998347562188,-1,0.9813135345858042,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,at home and sore knee,-1
+1,0.9503860473632812,0,0.9313917756080627,0,0.9996975919763319,0,0.0,0.7326967398901816,0.2375965118408203,0.25,0.25,0.5,chatgpt_ft,"All the cool people I want to find for following today are #English, and I guess the English don`t tweet.",1
+1,0.9903138279914856,1,0.9922561645507812,1,0.9999952766591059,1,0.0,0.0,0.9956401364651197,0.25,0.25,0.5,chatgpt_ft,"Wow, a calm evening",1
+1,0.9905471205711365,1,0.9718050956726074,1,0.9999964686909203,1,0.0,0.0,0.9905862884063961,0.25,0.25,0.5,chatgpt_ft,Recovering from a bad fall at lunch. Great start to the weekend.,1
+1,0.9893233180046082,1,0.9842835664749146,1,0.9999944422379315,1,0.0,0.0,0.9933989422388465,0.25,0.25,0.5,chatgpt_ft,had a cool lil night. Now at Berrie`s about to eat pizza waitin for ,1
+-1,0.9324867725372314,0,0.7942367792129517,0,0.5921287985419637,-1,0.4662433862686157,0.34659139443872883,0.0,0.5,0.25,0.25,twitter_roberta," if i can get a ticket, but the pickings are lookin slim soo prob not",-1
+1,0.5738404393196106,1,0.9094337821006775,1,0.999978945968628,1,0.0,0.0,0.870808028339386,0.25,0.25,0.5,chatgpt_ft,Well it`s friday and usually the start of something awsome...I`m not sure if that`ll be this time around  I gotta shake this,-1
+0,0.7661093473434448,1,0.8760504722595215,0,0.9997606116428572,0,0.0,0.6914076426572898,0.21901261806488037,0.25,0.25,0.5,chatgpt_ft," I`m still on the bandwagon. Figured I`ve been on this ride so far, might as well see what happens.",0
+-1,0.9614883661270142,-1,0.853990375995636,-1,0.9999909853565219,-1,0.9538651782089235,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Unfortunatley, AerLingus no longer fly to Copenhagen so we`re have to fly Ryanair to Billund and drive up to Copenhagen one of the days!",-1
+-1,0.9837507605552673,-1,0.9969900846481323,-1,0.999992892600195,-1,0.9951816576009473,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Im going to go to bed again, ear (both) infection, I am completely dizzy, yyyyuck! My stomach is hurting too  Peace-out loves",-1
+-1,0.987849771976471,-1,0.9969524145126343,-1,0.9999917005724162,-1,0.9961963969084844,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"I have to go clothes shopping tomorrow  I hate it, but I have a serious 'clothes falling apart' situation here.",-1
+1,0.4881479740142822,-1,0.5794621109962463,0,0.999826033585043,0,0.14486552774906158,0.4999130167925215,0.12203699350357056,0.25,0.25,0.5,chatgpt_ft,"If you followed us recently, PLEASE dont be offended that we haven`t followed back. We hit our limit.   Hopefully we will be free soon.",1
+0,0.3615240156650543,0,0.6997067332267761,0,0.9992992463002665,0,0.0,0.7649573103730909,0.0,0.25,0.25,0.5,chatgpt_ft,_hay The Twitter Happiness score for sw00p is: 418. http://happytweets.com I think I dropped by 1 point since yesterday.,1
+1,0.9110950827598572,1,0.991187572479248,1,0.999955463614667,1,0.0,0.0,0.9755483956171098,0.25,0.25,0.5,chatgpt_ft,Going to Jack`s for dinner with my BFF!,1
+1,0.9379881620407104,1,0.961887776851654,1,0.9999969455039983,1,0.0,0.0,0.9749674574750903,0.25,0.25,0.5,chatgpt_ft, have a safe trip joshy poo.......you`ll knock them dead at your speech,1
+-1,0.9605411887168884,-1,0.9344021081924438,-1,0.9999821644040676,-1,0.9737269064293669,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, time to leave a passive agressive note to the owners.  It`s not the dog`s fault... it`s their **** owners,-1
+-1,0.9847888946533203,-1,0.9921090006828308,-1,0.999997779927489,-1,0.9942233637977822,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"1 week post my'horrible, traumatic jumping cholla accident.'-cholla`s next dirty trick:pieces are starting to emerge from my hand! Ouch!",-1
+-1,0.7980470657348633,0,0.9307724237442017,-1,0.9996325542199331,-1,0.6993280435436824,0.23269310593605042,0.0,0.25,0.25,0.5,chatgpt_ft,_ no idea what that means bb,0
+0,0.9670562744140625,0,0.9929634928703308,0,0.9999013490292629,0,0.0,0.9899556163357297,0.0,0.25,0.25,0.5,chatgpt_ft,headed into venue.  bbl,0
+0,0.9202064871788025,0,0.991601288318634,0,0.9997562021684266,0,0.0,0.9778300449585724,0.0,0.25,0.25,0.5,chatgpt_ft,Waiting on laundry to finish so I can go HOME. Think I`ll do my nails while I wait,0
+1,0.9824057221412659,1,0.9940471649169922,1,0.9999988527586979,1,0.0,0.0,0.9941126481439135,0.25,0.25,0.5,chatgpt_ft, That`s very funny.  Cute kids.,1
+1,0.9699759483337402,-1,0.9384240508079529,1,0.9998945551132765,1,0.23460601270198822,0.0,0.7424412646400733,0.25,0.25,0.5,chatgpt_ft," Ha, yea you are so not allowed days of rest, way too many interesting ideas to incorporate into tweetdeck",1
+1,0.9923490285873413,1,0.9925876259803772,1,0.999997064707474,1,0.0,0.0,0.9962326959956667,0.25,0.25,0.5,chatgpt_ft," http://twitpic.com/3goxn - yes , everybody love you. i`m a german Fan. Follow me !",1
+-1,0.9326632022857666,-1,0.9796916842460632,-1,0.9999925349917576,-1,0.9780849891288362,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,What`s with the gloomy weather? The sun must be too tired to come out and play  heading to victoria gardens for some impulse buys haha,-1
+-1,0.9821120500564575,-1,0.9940735697746277,-1,0.9999899125340943,-1,0.9940413612248185,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,I don`t feel so good after eating all that food  ugh.,-1
+1,0.9841704368591309,1,0.9958680868148804,1,0.9999967070975446,1,0.0,0.0,0.9950079844672751,0.25,0.25,0.5,chatgpt_ft,Getting ready for week  Its too nice today to be stuck inside working!,1
+0,0.9796766638755798,0,0.9940128922462463,0,0.9998426001452322,0,0.0,0.9933436891030727,0.0,0.25,0.25,0.5,chatgpt_ft, HIM shirt at dinner? Do you need to ask??  Does it actually have Ville on it?,0
+-1,0.9851771593093872,-1,0.9976256489753723,-1,0.999988958915327,-1,0.9956951815288534,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,Nothing 2 do 2nte  Boooooooo! I`m totally bored!,-1
+1,0.9115306735038757,1,0.9967361092567444,1,0.9999962302845802,1,0.0,0.0,0.9770648108324451,0.25,0.25,0.5,chatgpt_ft,after show at our house rocked! saying goodbye soon,1
+1,0.7984365224838257,1,0.6807801127433777,0,0.9915675085110385,0,0.0,0.49578375425551924,0.36980415880680084,0.25,0.25,0.5,chatgpt_ft,"By  Drove a #-mazda #RX8 today and boy, that car is fun! Sadly though, I don`t find my car that much fun any more",1
+-1,0.9820894002914429,-1,0.9967793822288513,-1,0.999989078116941,-1,0.9947117346885441,0.0,0.0,0.25,0.25,0.5,chatgpt_ft," What`s sad is that I actually had to google that term. That sucks, tho.",-1
+0,0.6365121603012085,0,0.977174699306488,0,0.999788256984029,0,0.0,0.9033158433939386,0.0,0.25,0.25,0.5,chatgpt_ft," errr ok, most people have their espressos in the morning, ice latte at noon and warm latte in the evening!",0
+-1,0.7932260036468506,1,0.9352065324783325,1,0.5165176684629827,1,0.19830650091171265,0.0,0.5967326833549119,0.25,0.5,0.25,roberta_large,Bad day  The day you realize what mess you`ve put me through will be one of the happiest days of my life...,-1
+0,0.5992189049720764,0,0.9870136380195618,0,0.9998116162245702,0,0.0,0.8964639438601947,0.0,0.25,0.25,0.5,chatgpt_ft,from here to cyborgs there`s but a small leap  - http://www.newscientist.com/article/mg20227065.900,0
+0,0.5135229825973511,0,0.576594352722168,0,0.9998894299075528,0,0.0,0.7724740487836561,0.0,0.25,0.25,0.5,chatgpt_ft,Fishing on WoW while listening to ska on Pandora. Such a lazy Sunday morning,1
+0,0.7026739120483398,0,0.849155604839325,0,0.9998346147901669,0,0.0,0.8878746866169996,0.0,0.25,0.25,0.5,chatgpt_ft, ok Im off to pc world then  **** tweet u later **** lol,0
+0,0.9685723781585693,0,0.9940096139907837,0,0.9997344081076538,0,0.0,0.9905127020911652,0.0,0.25,0.25,0.5,chatgpt_ft,"'you can ride one, you can catch one, but its not summer til you pop open one'  ?",0
+-1,0.9797377586364746,-1,0.9886073470115662,-1,0.9999959918780695,-1,0.992084272351045,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,jus sittin in da libray and this stupid computer wont let me order any mac foundation,-1
+1,0.9713259339332581,1,0.9926981329917908,1,0.999997779927489,1,0.0,0.0,0.9910049066950066,0.25,0.25,0.5,chatgpt_ft, thank you!,1
+1,0.9778040051460266,1,0.9936689734458923,1,0.9999958726751765,1,0.0,0.0,0.992866180985568,0.25,0.25,0.5,chatgpt_ft,Wow - the dude said I was better than Bobbi Lewis.. never heard the guy - but I take that as a compliment  (just read the BL web site),1
+-1,0.74357670545578,-1,0.9762997031211853,0,0.9990852707321104,0,0.42996910214424133,0.4995426353660552,0.0,0.25,0.25,0.5,chatgpt_ft, umm..nope not anymoree,-1
+1,0.4099353849887848,0,0.8709443211555481,0,0.9998011283329947,0,0.0,0.7176366444553843,0.1024838462471962,0.25,0.25,0.5,chatgpt_ft, was that sass I detect?  As long as it isn`t back sass! Haha,0
+-1,0.9804792404174805,0,0.5794581174850464,-1,0.999942471080002,-1,0.7450910456443711,0.1448645293712616,0.0,0.25,0.25,0.5,chatgpt_ft,this sux but took like 4 minutes. going to sleep finally  http://img36.imageshack.us/img36/4603/iprevailedsig.png,-1
+0,0.9296786785125732,0,0.947882354259491,0,0.9997796798430514,0,0.0,0.9692800981145417,0.0,0.25,0.25,0.5,chatgpt_ft,Time to head back home. My business here is done.,0
+0,0.5002902150154114,-1,0.9020594358444214,-1,0.9870048240361388,-1,0.7190172709791747,0.12507255375385284,0.0,0.25,0.25,0.5,chatgpt_ft,Well - looks like Hurdle is out.,-1
+1,0.9935377240180969,1,0.9959926009178162,1,0.9999988527586979,1,0.0,0.0,0.9973820076133273,0.25,0.25,0.5,chatgpt_ft,FINALLY DONE WITH MY PROJECT !  now its 3:12 am  haha goodnights ! <3,1
+1,0.9702563285827637,1,0.7075616717338562,1,0.9999776347567552,1,0.0,0.0,0.9194433174575325,0.25,0.25,0.5,chatgpt_ft,The nocturnal serendipity... Kashmir is an important means to that end...,1
+0,0.5190759301185608,0,0.9862406849861145,0,0.9997588240204625,0,0.0,0.8762085657864,0.0,0.25,0.25,0.5,chatgpt_ft,Nearly grand prix time,0
+-1,0.6746314167976379,0,0.7897250056266785,0,0.7180655843604548,0,0.16865785419940948,0.574378898903453,0.0,0.25,0.5,0.25,roberta_large, ACSM. it`s unfathomable.  i think the other one .. and the .. is one that should be kept to the comfort of our bedrooms. yes?,-1
+-1,0.9620388150215149,0,0.988251268863678,-1,0.9972814493437137,-1,0.7391504284272356,0.2470628172159195,0.0,0.25,0.25,0.5,chatgpt_ft, that sux  but mayb 4 the btr u nvr know,-1
+-1,0.9695559740066528,-1,0.990562379360199,-1,0.9999968263007644,-1,0.9900280014920951,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,You know your neck is jacked up when you are forced to pay for parking bc you can`t turn you head to parallel park in the free spaces...,-1
+-1,0.8973807096481323,-1,0.9545239806175232,-1,0.9773663934109837,-1,0.9516593692719058,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Hey Fused Gaming, FusedGaming Forums have been delayed until 9PM PT/12AM ET tonight... sorry   (abean2007 live > http://ustre.am/1ntp)",-1
+1,0.9949724674224854,1,0.9893255233764648,1,0.9999978991308366,1,0.0,0.0,0.9960734472651558,0.25,0.25,0.5,chatgpt_ft,"Headed out at 6 today, shopped for Mother`s Day gifts. I love B&BWs new scents ? AND finished my book I bought yesterday.",1
+1,0.9858160018920898,0,0.9086917638778687,1,0.9999962302845802,1,0.0,0.22717294096946716,0.7464521156153126,0.25,0.25,0.5,chatgpt_ft,_musings Good morning!  It is raining here,1
+1,0.9612711668014526,1,0.961156964302063,1,0.9999962302845802,1,0.0,0.0,0.980605147918169,0.25,0.25,0.5,chatgpt_ft, Thanks for the tip! It`s our Company laptops so was aiming for another solution actually....,1
+0,0.7680853605270386,0,0.9900638461112976,0,0.9997490626989539,0,0.0,0.9394118330090611,0.0,0.25,0.25,0.5,chatgpt_ft,i wanna move back to Pennsylvania,0
+-1,0.9766665101051331,-1,0.9969210624694824,-1,0.9999919389781311,-1,0.9933928626327194,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,"Moving office tomorrow after 3 years at this one, its a sad day",-1
+1,0.9451336860656738,1,0.9618344306945801,1,0.999992415788822,1,0.0,0.0,0.9767382370844745,0.25,0.25,0.5,chatgpt_ft,"_Live That`s what I want. More the better. Bound to be a few bad eggs though, but they will soon learn.",1
+1,0.9708203077316284,1,0.991992175579071,1,0.9999967070975446,1,0.0,0.0,0.9907014743764472,0.25,0.25,0.5,chatgpt_ft,morning everyone!,1
+-1,0.9857189059257507,-1,0.9964751601219177,-1,0.9999945614411088,-1,0.9955457972324715,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,: Am getting upset listening to the say now  I want to speak to you Mitchel but my darn phone got no money on x,-1
+-1,0.8940428495407104,-1,0.9963363409042358,-1,0.9999697675216234,-1,0.9725796813720482,0.0,0.0,0.25,0.25,0.5,chatgpt_ft,I still smell of smoke  #kitchenfire,-1
+1,0.992579996585846,1,0.9773842096328735,1,0.9999926541947074,1,0.0,0.0,0.9924873786520336,0.25,0.25,0.5,chatgpt_ft,What better way to spoil mum than to let her kick back and relax over a nice meal and a bottle of her favorite wine? Our wine was a red,1
+-1,0.5297093391418457,1,0.4046379327774048,0,0.9955793295337368,0,0.13242733478546143,0.4977896647668684,0.1011594831943512,0.25,0.25,0.5,chatgpt_ft,Took the cutest pics of Andy yesterday. But I don`t have them.  Used my bro`s fancy DSLR & didn`t have time to upload them. I want my own!,1
+-1,0.8201304078102112,-1,0.900006115436554,0,0.9986027626744135,0,0.4300341308116913,0.49930138133720675,0.0,0.25,0.25,0.5,chatgpt_ft,They are unloading a Leopard Tank just next to my office window. Hope I didn`t piss off anyone,0
+-1,0.8925910592079163,-1,0.9932467937469482,-1,0.9714067542535937,-1,0.9626228502388516,0.0,0.0,0.25,0.5,0.25,roberta_large,Yay for having a giant headache  stupid glasses.,-1
+-1,0.9514550566673279,-1,0.9805536270141602,-1,0.9999860980626626,-1,0.9829952199517034,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, wifeyyyyyy  me no likey u siky,-1
+0,0.9774421453475952,0,0.9876931309700012,0,0.9986114450422188,0,0.0,0.9905895416005085,0.0,0.25,0.25,0.5,chatgpt_ft,Mmmmmmmm... ? it in the morning,0
+1,0.9884446859359741,1,0.9874413013458252,1,0.999998137537802,1,0.0,0.0,0.9939705655893508,0.25,0.25,0.5,chatgpt_ft,"JONAS BROTHERS - Live to party.                It`s rocking so hard     I love the song,",1
+-1,0.976257860660553,1,0.7166686058044434,-1,0.7480600248838069,-1,0.6751439365512282,0.0,0.17916715145111084,0.5,0.25,0.25,twitter_roberta,"stop making assumptions about me when you dont even **** know me!  haha stupid ****. thanks for defending me, matthew.",-1
+1,0.7462322115898132,1,0.9470211267471313,0,0.9894437927678656,0,0.0,0.4947218963839328,0.42331333458423615,0.25,0.25,0.5,chatgpt_ft, Hi  how are you doing ???  *just joined twitter...*,1
+-1,0.9027143120765686,-1,0.934185266494751,-1,0.9999617811472837,-1,0.9592057852164717,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, I haven`t had a good homemade flour tortilla in ages.,-1
+1,0.9899312257766724,1,0.9780964255332947,1,0.9999796611750019,1,0.0,0.0,0.9919967434149928,0.25,0.25,0.5,chatgpt_ft," There will be NO vidoe evidence!  I can`t wait, though. Now I just need 2 find a regular partner if I end up loving it!",1
+1,0.989871084690094,1,0.9890705347061157,1,0.9999978991308366,1,0.0,0.0,0.9947343544144707,0.25,0.25,0.5,chatgpt_ft, We never miss ICarly - my son has a huge crush on Miranda,1
+-1,0.9823457598686218,-1,0.9942043423652649,-1,0.9987654172302038,-1,0.9935202341735736,0.0,0.0,0.25,0.25,0.5,chatgpt_ft," omg!!!! I feel bad,  .Was it good?              ;",-1
+-1,0.9129599332809448,-1,0.9927017688751221,-1,0.9996255238300638,-1,0.9762281874540486,0.0,0.0,0.25,0.25,0.5,chatgpt_ft, u think u have bills Ha!Ii just finished paying mine that`s y I`m broke,-1
+1,0.9914330244064331,1,0.9940391778945923,1,0.9999886013078416,1,0.0,0.0,0.9963623512291772,0.25,0.25,0.5,chatgpt_ft,  Word. Yayy twitter after dark lol.,1
+1,0.9898760914802551,1,0.9951773881912231,1,0.9999968263007644,1,0.0,0.0,0.9962617830682517,0.25,0.25,0.5,chatgpt_ft,Is constantly listening to the  song Fly with Me...b/c it`s the cutest song...'Peter Pan & Wendy turned out fine',1
+0,0.840273380279541,0,0.8997247219085693,0,0.9989110962826754,0,0.0,0.9344550736883652,0.0,0.25,0.25,0.5,chatgpt_ft, What? I was being serious.,0

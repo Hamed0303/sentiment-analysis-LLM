@@ -1,0 +1,32 @@
+# Versions used for the paper's local runs (Python 3.12).
+# Encoder fine-tuning ran on Google Colab (see src/finetuning/).
+
+# Core
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.13
+tqdm>=4.66
+python-dotenv>=1.0
+requests>=2.32
+
+# Models
+torch>=2.3
+transformers>=4.44
+datasets>=2.20
+accelerate>=0.33
+huggingface_hub>=0.24
+openai>=1.40
+
+# RAG
+faiss-cpu>=1.8
+pypdf>=4.3
+reportlab>=4.2
+
+# Multi-agent
+langchain-core>=0.3
+langchain-openai>=0.2
+langgraph>=0.2
+
+# Figures
+matplotlib>=3.9
